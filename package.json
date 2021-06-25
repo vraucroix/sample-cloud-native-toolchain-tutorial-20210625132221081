@@ -48,7 +48,7 @@
     "marked": "^0.7.0",
     "morgan": "^1.9.1",
     "newrelic": "^5.10.0",
-    "phantomjs": "^2.1.7",
+    "phantomjs": "^1.9.20",
     "request": "^2.88.0",
     "serve-favicon": "^2.5.0",
     "sinon": "^7.3.2",
